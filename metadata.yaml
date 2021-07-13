@@ -1,0 +1,34 @@
+_repo: Las-Fuerzas-Extranas_65689
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lugones, Leopoldo
+    aliases:
+    - Arguello, Leopoldo Lugones
+    - Argüello, Leopoldo Lugones
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '48853'
+    url: http://www.gutenberg.org/2009/agents/48853
+    wikipedia: https://es.wikipedia.org/wiki/Leopoldo_Lugones
+description: ''
+gutenberg_issued: '2021-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65689'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Argentine'
+- !lcc 'PQ'
+- !lcsh 'Science fiction, Argentine'
+- !lcsh 'Argentine fiction -- 20th century'
+- GITenberg
+tableOfContents: La fuerza omega -- La lluvia de fuego -- Un fenómeno inexplicable
+  -- El milagro de san Wilfrido -- El escuerzo -- La metamúsica -- El origen de diluvio
+  -- Los caballos de Abdera -- Viola acherontia -- Yzur -- La estatua de sal -- El
+  psychon -- Ensayo de una cosmogonía en diez lecciones.
+title: Las Fuerzas Extrañas
+url: http://www.gutenberg.org/ebooks/65689
